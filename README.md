@@ -24,6 +24,6 @@ Here are some of the projects I've worked on:
 
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/saravanan-p-124613204/
-- Email: your.email@example.com
+- Email: yashsharan007@gmail.com
 
 Feel free to reach out if you'd like to collaborate on projects or just want to connect!🙋‍♂️
