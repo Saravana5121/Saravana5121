@@ -1,7 +1,7 @@
 
 # MERN Stack Developer & React Native Enthusiast
 
-Hello there! 👋 I'm Saravanan, a passionate MERN Stack Developer with a keen interest in building robust web applications and mobile apps using React Native.
+Hello there! 👋 I'm Saravanan, a passionate JQUERY & MERN Stack Developer with a keen interest in building robust web applications and mobile apps using React Native.
 
 ## About Me
 - 💻 Experienced in building full-stack web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
@@ -10,7 +10,7 @@ Hello there! 👋 I'm Saravanan, a passionate MERN Stack Developer with a keen i
 - 🎓 Master's degree in Computer Science.
 
 ## Tech Stack
-- **Frontend:** React.js, React Native, HTML5, Tailwind CSS, JavaScript
+- **Frontend:** JQUERY, React.js, React Native, HTML5, Tailwind CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, AntDesign, Vite
